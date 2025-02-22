@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🌟 **Current Status**: 3rd-year B.Tech CSE student at **BBD University, Lucknow**
+- 🌟 **Current Status**: 3rd-year B.Tech CSE student at **Babu Banarasi Das Northern India Institute, Lucknow**
 - 🌱 **Learning Goals**: Mastering **Java, React, Express.js, and Full Stack Development**
 - 💻 **Tech Stack**:
   - **Frontend**: HTML, CSS, JavaScript, React.js
