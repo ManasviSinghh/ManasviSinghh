@@ -1,3 +1,4 @@
+![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 # <div align="center">Welcome to My GitHub Profile! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></div>
 
 <h1 align="center">
